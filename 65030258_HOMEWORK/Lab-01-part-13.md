@@ -60,12 +60,47 @@ Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`
-
+```csharp
+Console.WriteLine("Data type : char");
+Console.WriteLine("Size :" + sizeof(char));
+Console.WriteLine("Minimum Value :" + char.MinValue);
+Console.WriteLine("Maximum Value :" + char.MaxValue);
+```
+### ผลที่ได้จากโปรแกรม `char`
+```text
+Data type : char
+Size :2
+Minimum Value :
+Maximum Value :?
+```
 ---ผลการทดลอง `byte`
-
+```csharp
+Console.WriteLine("Data type : byte");
+Console.WriteLine("Size :" + sizeof(byte));
+Console.WriteLine("Minimum Value :" + byte.MinValue);
+Console.WriteLine("Maximum Value :" + byte.MaxValue);
+```
+### ผลที่ได้จากโปรแกรม `byte`
+```text
+Data type : byte
+Size :1
+Minimum Value :0
+Maximum Value :255
+```
 ---ผลการทดลอง `short`
- 
-
+```csharp
+Console.WriteLine("Data type : short");
+Console.WriteLine("Size :" + sizeof(short));
+Console.WriteLine("Minimum Value :" + short.MinValue);
+Console.WriteLine("Maximum Value :" + short.MaxValue);
+```
+### ผลที่ได้จากโปรแกรม `short`
+```text
+Data type : short
+Size :2
+Minimum Value :-32768
+Maximum Value :32767
+```
 ---ผลการทดลอง `ushort`
 
  
