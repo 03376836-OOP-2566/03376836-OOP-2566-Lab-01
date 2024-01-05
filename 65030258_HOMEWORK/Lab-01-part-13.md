@@ -201,9 +201,29 @@ Minimum Value :0
 Maximum Value :18446744073709551615
 ```
 ### ---ผลการทดลอง `bool`
-
+```csharp
+Console.WriteLine("Data type : bool");
+Console.WriteLine("Size :" + sizeof(bool));
+```
+### ผลที่ได้จากโปรแกรม `bool`
+```text
+Data type : bool
+Size :1
+```
 ### ---ผลการทดลอง `sbyte`
-
+```csharp
+Console.WriteLine("Data type : sbyte");
+Console.WriteLine("Size :" + sizeof(sbyte));
+Console.WriteLine("Minimum Value :" + sbyte.MinValue);
+Console.WriteLine("Maximum Value :" + sbyte.MaxValue);
+```
+### ผลที่ได้จากโปรแกรม `sbyte`
+```text
+Data type : sbyte
+Size :1
+Minimum Value :-128
+Maximum Value :127
+```
 
 ## การใช้งานข้อมูลชนิดต่างๆ
 
