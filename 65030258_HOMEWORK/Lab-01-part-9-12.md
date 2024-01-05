@@ -84,6 +84,7 @@ catch (Exception e)
 
 ➢ รันโปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผล
 
+![](./LAB_Images/12.1.png)
 
 ❔ ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น เหมือนหรือต่างจากโปรแกรมก่อนหน้านี้อย่างไร
 
@@ -95,7 +96,32 @@ catch (Exception e)
 ``Lastname :`` (ป้อนนามสกุลนักศึกษา)  
 ``ID :`` (ป้อนรหัสนักศึกษา)  
 ``GPA :`` (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก)  
+### Code โปรแกรม
+```C#
+string name, lastname;
+int id;
+double gpa;
+Console.Write("Please enter Name:");
+
+name = Console.ReadLine()!;
+
+Console.Write("\nPlease enter Lastname:");
+
+lastname = Console.ReadLine()!;
+
+Console.Write("\nPlease enter ID:");
+
+id= int.Parse(Console.ReadLine()!);
+
+Console.Write("\nPlease enter GPA:");
+
+gpa=double.Parse(Console.ReadLine()!);   
+
+Console.WriteLine("\nID:{2} Name:{0} Lastname:{1} GPA:{3}", name, lastname, id, gpa);
+```
 
 ➢ รันโปรแกรมและบันทึกผล
+
+![](./LAB_Images/Student.png)
 
 ## [การตั้งชื่อตัวแปรและชนิดข้อมูลในภาษา C\#](./Lab-01-part-13.md)
