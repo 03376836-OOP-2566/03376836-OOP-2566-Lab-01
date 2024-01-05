@@ -68,6 +68,6 @@ Console.WriteLine("World!");
 
 ❔ จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
 
-#### Console.Write()กับ Console.WriteLine() ทั้งคู่จะให้แสดงผลข้อมูลผ่านหน้าจอ เหมือนกัน แต่แตกต่างกันตรงที่ Console.WriteLine() จะเป็นการแสดงผลสู่หน้าจอโดยเว้นบรรทัด
+#### Console.Write() กับ Console.WriteLine() ทั้งคู่จะให้แสดงผลข้อมูลผ่านหน้าจอ เหมือนกัน แต่แตกต่างกันตรงที่ Console.WriteLine() จะเป็นการแสดงผลสู่หน้าจอโดยเว้นบรรทัด
 
 ## [4. จำนวนของอาร์กิวเมนต์ในคำสั่ง Console.WriteLine()](./Lab-01-part-4.md)
