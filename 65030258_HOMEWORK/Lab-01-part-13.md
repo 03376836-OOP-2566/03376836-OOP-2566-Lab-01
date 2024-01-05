@@ -63,15 +63,15 @@ Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```csharp
 Console.WriteLine("Data type : char");
 Console.WriteLine("Size :" + sizeof(char));
-Console.WriteLine("Minimum Value :" + char.MinValue);
-Console.WriteLine("Maximum Value :" + char.MaxValue);
+Console.WriteLine("Minimum Value :" + (int) char.MinValue);
+Console.WriteLine("Maximum Value :" + (int)char.MaxValue);
 ```
 ### ผลที่ได้จากโปรแกรม `char`
 ```text
 Data type : char
 Size :2
-Minimum Value :
-Maximum Value :?
+Minimum Value :0
+Maximum Value :65535
 ```
 ### ---ผลการทดลอง `byte`
 ```csharp
