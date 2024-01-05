@@ -173,11 +173,33 @@ Minimum Value :-79228162514264337593543950335
 Maximum Value :79228162514264337593543950335
 ```
 ### ---ผลการทดลอง `long`
-
-
+```csharp
+Console.WriteLine("Data type : long");
+Console.WriteLine("Size :" + sizeof(long));
+Console.WriteLine("Minimum Value :" + long.MinValue);
+Console.WriteLine("Maximum Value :" + long.MaxValue);
+```
+### ผลที่ได้จากโปรแกรม `long`
+```text
+Data type : long
+Size :8
+Minimum Value :-9223372036854775808
+Maximum Value :9223372036854775807
+```
 ### ---ผลการทดลอง `ulong`
-
-
+```csharp
+Console.WriteLine("Data type : ulong");
+Console.WriteLine("Size :" + sizeof(ulong));
+Console.WriteLine("Minimum Value :" + ulong.MinValue);
+Console.WriteLine("Maximum Value :" + ulong.MaxValue);
+```
+### ผลที่ได้จากโปรแกรม `ulong`
+```text
+Data type : ulong
+Size :8
+Minimum Value :0
+Maximum Value :18446744073709551615
+```
 ### ---ผลการทดลอง `bool`
 
 ### ---ผลการทดลอง `sbyte`
