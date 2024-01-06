@@ -119,6 +119,8 @@ Console.Write("\nPlease enter GPA:");
 gpa=double.Parse(Console.ReadLine()!);   
 
 Console.WriteLine("\nID:{2} Name:{0} Lastname:{1} GPA:{3}", name, lastname, id, gpa);
+
+# Sittha Klaphanich
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
