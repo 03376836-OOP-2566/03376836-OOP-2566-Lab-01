@@ -70,11 +70,114 @@ Console.WriteLine("-----------------------");
 👷 จากจ้อ 14 ให้เขียนโปรแกรมเพื่อสร้างตารางความจริงของลอจิกดังต่อไปนี้
 
 1. `AND`
-2. `OR`
-3. `NOT`
-4. `NAND`
-5. `NOR`
-6. `Exclusive OR`
+```csharp
+bool A, B, Y;
+Console.WriteLine("      Y = A AND B");
+Console.WriteLine("-----------------------");
+Console.WriteLine("   A      B\t|  Y");
+Console.WriteLine("-----------------------");
+A = false; B = false; Y = A & B;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+A = false; B = true; Y = A  & B;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+A = true; B = false; Y = A & B;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+A = true; B = true; Y = A & B;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+Console.WriteLine("-----------------------");
 
+#Sittha Klaphanich
+```
+2. `OR`
+```csharp
+bool A, B, Y;
+Console.WriteLine("      Y = A or B");
+Console.WriteLine("-----------------------");
+Console.WriteLine("   A      B\t|  Y");
+Console.WriteLine("-----------------------");
+A = false; B = false; Y = A || B;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+A = false; B = true; Y = A || B;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+A = true; B = false; Y = A || B;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+A = true; B = true; Y = A || B;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+Console.WriteLine("-----------------------");
+
+#Sittha Klaphanich
+```
+3. `NOT`
+```csharp
+bool A, Y;
+Console.WriteLine("   Y = NOT A    ");
+Console.WriteLine("-----------------------");
+Console.WriteLine("   A    |  Y");
+Console.WriteLine("-----------------------");
+A = false;  Y = !A  ;
+Console.WriteLine(" {0}\t| {1}", A,  Y);
+A = true;  Y = !A  ;
+Console.WriteLine(" {0}\t| {1}", A,  Y);
+Console.WriteLine("-----------------------");
+
+#Sittha Klaphanich
+```  
+5. `NAND`
+```csharp
+bool A, B, Y;
+Console.WriteLine("   Y = A NAND B    ");
+Console.WriteLine("-----------------------");
+Console.WriteLine("   A    B\t|  Y");
+Console.WriteLine("-----------------------");
+A = false; B = false; Y = !(A&B)  ;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B,  Y);
+A = false; B = true;   Y = !(A&B)  ;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B,  Y);
+A = true; B = false;  Y = !(A&B)  ;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+A = true; B = true;   Y = !(A&B)  ;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+Console.WriteLine("-----------------------");
+
+#Sittha Klaphanich
+```
+7. `NOR`
+```csharp
+bool A, B, Y;
+Console.WriteLine("   Y = A NOR B    ");
+Console.WriteLine("-----------------------");
+Console.WriteLine("   A    B\t|  Y");
+Console.WriteLine("-----------------------");
+A = false; B = false; Y = !(A||B)  ;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B,  Y);
+A = false; B = true;   Y = !(A||B)  ;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B,  Y);
+A = true; B = false;  Y = !(A||B)  ;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+A = true; B = true;   Y = !(A||B)  ;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+Console.WriteLine("-----------------------");
+
+#Sittha Klaphanich
+```
+9. `Exclusive OR`
+```csharp
+bool A, B, Y;
+Console.WriteLine("   Y = A XOR B    ");
+Console.WriteLine("-----------------------");
+Console.WriteLine("   A    B\t|  Y");
+Console.WriteLine("-----------------------");
+A = false; B = false; Y = A^B  ;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B,  Y);
+A = false; B = true;  Y = A^B  ;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B,  Y);
+A = true; B = false;  Y = A^B  ;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+A = true; B = true;   Y = A^B  ;
+Console.WriteLine(" {0}\t{1}\t| {2}", A, B, Y);
+Console.WriteLine("-----------------------");
+
+#Sittha Klaphanich
+```
 
 ## [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Lab-01-part-15.md)
