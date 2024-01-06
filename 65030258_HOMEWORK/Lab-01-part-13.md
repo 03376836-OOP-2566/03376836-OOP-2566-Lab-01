@@ -308,4 +308,25 @@ Console.WriteLine(randomNumber);
  
 ให้รัน 10 ครั้งแล้วบันทึกค่าที่ได้จากการรัน
 
+![](./LAB_Images/random.png)
+
+![](./LAB_Images/random2.png)
+
+![](./LAB_Images/random3.png)
+
+![](./LAB_Images/random4.png)
+
+![](./LAB_Images/random5.png)
+
+![](./LAB_Images/random6.png)
+
+![](./LAB_Images/random7.png)
+
+![](./LAB_Images/random8.png)
+
+![](./LAB_Images/random9.png)
+
+![](./LAB_Images/random10.png)
+
+
 ## [การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ](./Lab-01-part-14.md)
