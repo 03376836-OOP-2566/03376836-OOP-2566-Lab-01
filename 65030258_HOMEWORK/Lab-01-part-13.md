@@ -65,6 +65,8 @@ Console.WriteLine("Data type : char");
 Console.WriteLine("Size :" + sizeof(char));
 Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
+
+#Sittha Klaphanich
 ```
 ### ผลที่ได้จากโปรแกรม `char`
 ```text
@@ -72,6 +74,8 @@ Data type : char
 Size :2
 Minimum Value :0
 Maximum Value :65535
+
+#Sittha Klaphanich
 ```
 ### ---ผลการทดลอง `byte`
 ```csharp
@@ -79,6 +83,8 @@ Console.WriteLine("Data type : byte");
 Console.WriteLine("Size :" + sizeof(byte));
 Console.WriteLine("Minimum Value :" + byte.MinValue);
 Console.WriteLine("Maximum Value :" + byte.MaxValue);
+
+#Sittha Klaphanich
 ```
 ### ผลที่ได้จากโปรแกรม `byte`
 ```text
@@ -86,6 +92,8 @@ Data type : byte
 Size :1
 Minimum Value :0
 Maximum Value :255
+
+#Sittha Klaphanich
 ```
 ### ---ผลการทดลอง `short`
 ```csharp
@@ -93,6 +101,8 @@ Console.WriteLine("Data type : short");
 Console.WriteLine("Size :" + sizeof(short));
 Console.WriteLine("Minimum Value :" + short.MinValue);
 Console.WriteLine("Maximum Value :" + short.MaxValue);
+
+#Sittha Klaphanich
 ```
 ### ผลที่ได้จากโปรแกรม `short`
 ```text
@@ -100,6 +110,8 @@ Data type : short
 Size :2
 Minimum Value :-32768
 Maximum Value :32767
+
+#Sittha Klaphanich
 ```
 ### ---ผลการทดลอง `ushort`
 ```csharp
@@ -107,6 +119,8 @@ Console.WriteLine("Data type : ushort");
 Console.WriteLine("Size :" + sizeof(ushort));
 Console.WriteLine("Minimum Value :" + ushort.MinValue);
 Console.WriteLine("Maximum Value :" + ushort.MaxValue);
+
+#Sittha Klaphanich
  ```
 ### ผลที่ได้จากโปรแกรม `ushort`
 ```text
@@ -114,6 +128,8 @@ Data type : ushort
 Size :2
 Minimum Value :0
 Maximum Value :65535
+
+#Sittha Klaphanich
 ```
 ### ---ผลการทดลอง `uint`
 ```csharp
@@ -121,6 +137,8 @@ Console.WriteLine("Data type : uint");
 Console.WriteLine("Size :" + sizeof(uint));
 Console.WriteLine("Minimum Value :" + uint.MinValue);
 Console.WriteLine("Maximum Value :" + uint.MaxValue);
+
+#Sittha Klaphanich
  ```
 ### ผลที่ได้จากโปรแกรม `uint`
 ```text
@@ -128,13 +146,17 @@ Data type : uint
 Size :4
 Minimum Value :0
 Maximum Value :4294967295
+
+#Sittha Klaphanich
 ```
 ### ---ผลการทดลอง `float`
 ```csharp
 Console.WriteLine("Data type : float");
 Console.WriteLine("Size :" + sizeof(float));
 Console.WriteLine("Minimum Value :" + float.MinValue);
-Console.WriteLine("Maximum Value :" + float.MaxValue); 
+Console.WriteLine("Maximum Value :" + float.MaxValue);
+
+#Sittha Klaphanich
 ```
 ### ผลที่ได้จากโปรแกรม `float`
 ```text
@@ -142,6 +164,8 @@ Data type : float
 Size :4
 Minimum Value :-3.4028235E+38
 Maximum Value :3.4028235E+38
+
+#Sittha Klaphanich
 ```
 
 ### ---ผลการทดลอง `double`
@@ -149,7 +173,9 @@ Maximum Value :3.4028235E+38
 Console.WriteLine("Data type : double");
 Console.WriteLine("Size :" + sizeof(double));
 Console.WriteLine("Minimum Value :" + double.MinValue);
-Console.WriteLine("Maximum Value :" + double.MaxValue); 
+Console.WriteLine("Maximum Value :" + double.MaxValue);
+
+#Sittha Klaphanich
 ```
 ### ผลที่ได้จากโปรแกรม `double`
 ```text
@@ -157,6 +183,8 @@ Data type : double
 Size :8
 Minimum Value :-1.7976931348623157E+308
 Maximum Value :1.7976931348623157E+308
+
+#Sittha Klaphanich
 ```
 ### ---ผลการทดลอง `decimal`
 ```csharp
@@ -164,6 +192,8 @@ Console.WriteLine("Data type : decimal");
 Console.WriteLine("Size :" + sizeof(decimal));
 Console.WriteLine("Minimum Value :" + decimal.MinValue);
 Console.WriteLine("Maximum Value :" + decimal.MaxValue);
+
+#Sittha Klaphanich
 ```
 ### ผลที่ได้จากโปรแกรม `decimal`
 ```text
@@ -171,6 +201,8 @@ Data type : decimal
 Size :16
 Minimum Value :-79228162514264337593543950335
 Maximum Value :79228162514264337593543950335
+
+#Sittha Klaphanich
 ```
 ### ---ผลการทดลอง `long`
 ```csharp
@@ -178,6 +210,8 @@ Console.WriteLine("Data type : long");
 Console.WriteLine("Size :" + sizeof(long));
 Console.WriteLine("Minimum Value :" + long.MinValue);
 Console.WriteLine("Maximum Value :" + long.MaxValue);
+
+#Sittha Klaphanich
 ```
 ### ผลที่ได้จากโปรแกรม `long`
 ```text
@@ -185,6 +219,8 @@ Data type : long
 Size :8
 Minimum Value :-9223372036854775808
 Maximum Value :9223372036854775807
+
+#Sittha Klaphanich
 ```
 ### ---ผลการทดลอง `ulong`
 ```csharp
@@ -192,6 +228,8 @@ Console.WriteLine("Data type : ulong");
 Console.WriteLine("Size :" + sizeof(ulong));
 Console.WriteLine("Minimum Value :" + ulong.MinValue);
 Console.WriteLine("Maximum Value :" + ulong.MaxValue);
+
+#Sittha Klaphanich
 ```
 ### ผลที่ได้จากโปรแกรม `ulong`
 ```text
@@ -199,16 +237,22 @@ Data type : ulong
 Size :8
 Minimum Value :0
 Maximum Value :18446744073709551615
+
+#Sittha Klaphanich
 ```
 ### ---ผลการทดลอง `bool`
 ```csharp
 Console.WriteLine("Data type : bool");
 Console.WriteLine("Size :" + sizeof(bool));
+
+#Sittha Klaphanich
 ```
 ### ผลที่ได้จากโปรแกรม `bool`
 ```text
 Data type : bool
 Size :1
+
+#Sittha Klaphanich
 ```
 ### ---ผลการทดลอง `sbyte`
 ```csharp
@@ -216,6 +260,8 @@ Console.WriteLine("Data type : sbyte");
 Console.WriteLine("Size :" + sizeof(sbyte));
 Console.WriteLine("Minimum Value :" + sbyte.MinValue);
 Console.WriteLine("Maximum Value :" + sbyte.MaxValue);
+
+#Sittha Klaphanich
 ```
 ### ผลที่ได้จากโปรแกรม `sbyte`
 ```text
@@ -223,6 +269,8 @@ Data type : sbyte
 Size :1
 Minimum Value :-128
 Maximum Value :127
+
+#Sittha Klaphanich
 ```
 
 ## การใช้งานข้อมูลชนิดต่างๆ
