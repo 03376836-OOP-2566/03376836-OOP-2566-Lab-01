@@ -43,7 +43,7 @@ Console.WriteLine("{0, 0:X}", n);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
-![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/a8b8c814-9e7a-49d4-bb23-24e116fb31e1)
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/eae495be-5917-4437-be10-6000a8d15801)
 
 ❔  การกำหนดตัวอักษร E, F, G, N, P, X หมายถึงให้พิมพ์ออกมาเป็นอะไร
 ```
