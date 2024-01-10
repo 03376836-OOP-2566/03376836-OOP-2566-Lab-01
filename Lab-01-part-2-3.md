@@ -15,7 +15,7 @@ Console.Write("Hello");
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
 ![2 1](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/139803cc-bd02-43bd-81e3-771e2ce4ad76)
-'แสดงhelloในบรรทัดเดียวกัน'
+`แสดงhelloในบรรทัดเดียวกัน`
 
 
 ### 2.2 การใช้เมดธอด Console.Write() ร่วมกับ  `Environment.NewLine`
@@ -34,7 +34,7 @@ Console.Write("Hello" + Environment.NewLine);
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
 ![2 2](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/546f6656-38d2-40e5-9d86-5fbeac82f5e3)
-'แสดงhelloแบบเว้นบรรทัด'
+`แสดงhelloแบบเว้นบรรทัด`
 
 
 
@@ -63,7 +63,7 @@ Console.WriteLine("World!");
 ![3 2](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/226c42fd-3608-406a-a3e9-30cd144d2350)
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
-'Hello และ World อยู่ในบรรทัดเดียววัน'
+`Hello และ World อยู่ในบรรทัดเดียววัน`
 
 
 ❔ จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
