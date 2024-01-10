@@ -20,7 +20,22 @@
 
 
 ---ผลการทดลอง
+ให้นักศึกษาพิจารณาชื่อตัวแปรตามตารางต่อไปนี้ ว่าสามารถใช้ได้หรือไม่ พร้อมบอกเหตุผล
 
+| ชื่อตัวแปร | ใช้ได้/ไม่ได้ | เหตุผล|
+|--|--|--|
+| `xxx`     | ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `null` |	ไม่ได้ | null เป็นคีย์เวิร์ดที่ใช้ในภาษา C# เพื่อระบุว่าตัวแปรไม่มีค่าหรือไม่ได้กำหนดค่า |
+| `_value` | ใช้ได้ | ตัวแปรสามารถขึ้นต้นด้วย underscore _ ได้ |
+| `First-name`|	ไม่ได้ | ไม่สามารถใช้ตัวอักษรขีด (-) ในชื่อตัวแปร |
+| `Hello!` |ไม่ได้ | ไม่สามารถใช้เครื่องหมายตัวพิเศษ (!) ในชื่อตัวแปร |
+| `w*h` |	ไม่ได้ | ไม่สามารถใช้เครื่องหมายดอกจัน (*) ในชื่อตัวแปร |
+| `time` |ใช้ได้ | ไม่มีปัญหา |
+| `do` |	ไม่ได้ |	do เป็นคีย์เวิร์ดที่ใช้ใน C# และไม่สามารถใช้เป็นชื่อตัวแปร |
+| `Do` | ใช้ได้|	ไม่มีปัญหา |
+| `21November`| ใช้ได้| ตัวแปรสามารถขึ้นต้นด้วยตัวเลข |
+| `ladkrabang`| ใช้ได้ | ไม่มีปัญหา |
+| `Student ID`|	ไม่ได้ | ไม่สามารถใช้เครื่องหมายวรรคตอน (space) ในชื่อตัวแปร |
 
 ## ชนิดข้อมูลภายในภาษา C\#
 
@@ -59,36 +74,40 @@ Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/38abe3f0-5d27-4bb5-934c-0d3fb48df70a)
 
 ---ผลการทดลอง `byte`
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/e86ee506-f621-4eeb-8ac3-0c8afeeffacd)
 
 ---ผลการทดลอง `short`
- 
+ ![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/4b978bc6-ea52-4d83-ac6d-468d02cc3794)
 
 ---ผลการทดลอง `ushort`
-
- 
+ ![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/c7052908-5660-48f7-83e3-5b56162c9b3c)
 
 ---ผลการทดลอง `uint`
+ ![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/e7bdf4fe-0c8c-4198-a9c5-212a57fe73b1)
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/739922c0-7e66-4e82-9bad-cd1ce28a0642)
 
- 
 
 ---ผลการทดลอง `float`
- 
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/67b8ab4d-90ac-4baf-bb9e-95453df45326)
 
 ---ผลการทดลอง `double`
- 
+ ![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/61c71f20-9f45-44b2-a065-8b1fada46aa0)
+
 ---ผลการทดลอง `decimal`
- 
+ ![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/dc1182ae-43d1-432d-af98-728779bee49c)
+
 ---ผลการทดลอง `long`
 
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/4e0c842f-b2a0-44ff-b196-928dd5584d17)
 
 ---ผลการทดลอง `ulong`
-
-
----ผลการทดลอง `bool`
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/77e932ef-3e8a-4c34-a517-286ccc432ad8)
 
 ---ผลการทดลอง `sbyte`
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/6d2cf1b5-e285-4766-8869-fbaa6c3a7b10)
 
 
 ## การใช้งานข้อมูลชนิดต่างๆ
