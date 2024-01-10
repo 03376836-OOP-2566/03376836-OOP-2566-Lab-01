@@ -136,5 +136,16 @@ Console.WriteLine(randomNumber);
 ```
  
 ให้รัน 10 ครั้งแล้วบันทึกค่าที่ได้จากการรัน
+![r7](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/53672b39-c25e-490a-9f6c-9ed59d321108)
+![r6](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/c496bc9e-480a-4fc2-8b83-8d81a585d2e0)
+![r5](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/1569831f-aa43-42cc-9820-aac964c5867a)
+![r4](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/e608c2f5-71e5-43f3-bb19-4ccab3fa9a88)
+![r3](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/15d16bec-33ec-4046-907a-203bc64a1b64)
+![r2](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/c870858a-a884-4681-93fa-2fc107dd45db)
+![r1](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/3c318cdd-d2bb-4e3a-9f7f-3ee282154fac)
+![r9](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/7f65cb20-acb5-46c3-bcbb-ece4bda67ff1)
+![r8](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/6f224502-0492-4864-bb7f-f653e78e8d25)
+![r10](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/e1998ee9-2bcb-4a8b-bce8-12a35cd9adb8)
+
 
 ## [การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ](./Lab-01-part-14.md)
