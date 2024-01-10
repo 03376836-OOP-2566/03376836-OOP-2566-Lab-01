@@ -94,6 +94,8 @@ Console.WriteLine("{0:F5}", i);
 ```
 ![6 16](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-01/assets/144195555/224dbd06-7202-4d9d-8bd0-700aec7ff89a)
 
+end
+
 
 
 ## [การใช้งานคำสั่ง Console.Read() และ Console.ReadLine()](./Lab-01-part-9-12.md)
