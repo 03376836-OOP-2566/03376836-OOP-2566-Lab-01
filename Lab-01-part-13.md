@@ -1,4 +1,4 @@
-# Lab-01 การตั้งชื่อตัวแปรและชนิดข้อมูลในภาษา C\#
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/81906982-b543-48a6-806a-2d44fc2339bd)# Lab-01 การตั้งชื่อตัวแปรและชนิดข้อมูลในภาษา C\#
 
 
  ให้นักศึกษาพิจารณาชื่อตัวแปรตามตารางต่อไปนี้ ว่าสามารถใช้ได้หรือไม่ พร้อมบอกเหตุผล
@@ -144,5 +144,17 @@ Console.WriteLine(randomNumber);
 ```
  
 ให้รัน 10 ครั้งแล้วบันทึกค่าที่ได้จากการรัน
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/ce406f94-fa01-4b81-a67f-89ac62a3ad48)
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/47495043-6de2-4d6f-ae97-4a566740ebed)
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/a5d9487a-92a2-4829-b9f4-20675e7335af)
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/04032371-9eae-4097-a28b-dc751cc9256d)
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/25baac0e-dc5e-4914-b131-99ec44f1172e)
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/249e4086-9907-4a1a-872b-4087a9511afc)
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/b0d33071-0c82-46cc-baca-63c45af49a70)
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/cac843d5-1382-4627-a524-de260f352725)
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/9a45a5e4-98d9-43a7-b26a-579e3aaaf9e4)
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/8df4bd75-8cb4-44b8-b686-0a9333b2cef0)
+![image](https://github.com/Phetteepop/03376836-OOP-2566-Lab-01/assets/144197367/fd4c7cc8-d79a-41d2-bec6-10c2d60a4c37)
+
 
 ## [การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ](./Lab-01-part-14.md)
