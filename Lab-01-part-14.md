@@ -86,10 +86,10 @@ Console.WriteLine("-----------------------");
 ![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/a9319986-20ca-4290-8930-b873cb50e97d)
 
 5. `NOR`
-6. ![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/ab98f838-7da0-40be-9f7c-4126a634e8fc)
+6. 
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/ab98f838-7da0-40be-9f7c-4126a634e8fc)
 
-
-7. `Exclusive OR`
+6. `Exclusive OR`
 
 ![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/b539607a-548f-46a6-8ded-f7d131ce8c9d)
 
