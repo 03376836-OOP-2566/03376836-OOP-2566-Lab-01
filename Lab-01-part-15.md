@@ -25,8 +25,7 @@ Console.WriteLine("f={0}", f);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-
-
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/e2b6e692-7645-4c63-a6ec-ea9d56f6baf8)
 
 ## 16. หาค่าจากสมการทางคณิตศาสตร์
 
@@ -43,6 +42,22 @@ Console.WriteLine("f={0}", f);
 8. `9/2*a`
 9. `y%8`
 10. `100*x+y%2-a`
+
+```csharp
+int a = 10, b = 20, x = 5, y = 2;
+Console.WriteLine("a + b = " + (a + b));
+Console.WriteLine("x - b = " + (x - b));
+Console.WriteLine("x * b = " + (x * b));
+Console.WriteLine("y / a = " + (y / (double)a));  
+Console.WriteLine("b % y = " + (b % y));
+Console.WriteLine("y + 10 % x = " + (y + 10 % x));
+Console.WriteLine("a / 3 * 5 = " + (a / 3 * 5));
+Console.WriteLine("9 / 2 * a = " + (9 / 2 * a));
+Console.WriteLine("y % 8 = " + (y % 8));
+Console.WriteLine("100 * x + y % 2 - a = " + (100 * x + y % 2 - a));
+```
+
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/3290e6b8-c88f-4ac4-9c97-f78692d49a84)
 
 ## ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 
@@ -73,26 +88,66 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 
 ➢ รันโปรแกรมและบันทึกผล
 
-
-
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/0a1556f3-26be-480d-9ddf-d85a24e32272)
 
 👷 คำสั่ง ให้เขียนโปรแกรมคำนวณค่าเพื่อเติมลงในช่องว่างในตาราง
 ตารางที่ 1 ระยะทางจากดวงอาทิตย์ถึงดาวเคราะห์ต่างๆ
 
 | ดาวเคราะห์ | ระยะทางจากดวงอาทิตย์ | ระยะทางในหน่วย A.U. | เวลาของแสง (นาที)
-|---|---|---|---|
-| Mercury | 57,910,000 km | |
-| Venus | 108,200,000 km | |
-| Earth | 149,600,000 km | |
-| Mars | 227,940,000 km | |
-| Jupiter |  778,330,000 km | |
-| Uranus | 2,873,550,000 km | |
-| Neptune | 4,501,000,000 km | |
-| Pluto | 5,945,900,000 km | |
+|--------------|------------------------|------------------------|------------------------|
+| Mercury      | 57,910,000             |      0.387098            |         3.223437           |
+| Venus        | 108,200,000           |      0.723331            |         5.984475           |
+| Earth        | 149,600,000           |      1.000000            |         8.317122           |
+| Mars         | 227,940,000           |      1.523688            |        12.555248          |
+| Jupiter      | 778,330,000           |      5.203363            |        43.268936          |
+| Uranus       | 2,873,550,000        |     19.218446           |       159.778796         |
+| Neptune      | 4,501,000,000        |     30.047098           |       249.742063         |
+| Pluto        | 5,945,900,000        |     39.482116           |       327.669856         |
 
 
 
  คลาส Math ในภาษา C# มีคลาสที่เป็นตัวช่วยคำนวณทางคณิตศาสตร์ ที่ช่วยให้เราสามารถคำนวณฟังก์ชันพื้นฐานได้ อย่างรวดเร็ว ไม่ต้องพัฒนาโปรแกรมเพิ่มเติมด้วยเอง นั่นคือคลาส Math ฟังก์ชันทางคณิตศาสตร์ที่ใช้บ่อยๆ สามารถดูรายละเอียดทั้งหมดได้จาก `system.math`
+
+```csharp
+double distanceToEarthAU = CalculateAU(149600000);
+double distanceToMercuryAU = CalculateAU(57910000);
+double distanceToVenusAU = CalculateAU(108200000);
+double distanceToMarsAU = CalculateAU(227940000);
+double distanceToJupiterAU = CalculateAU(778330000);
+double distanceToUranusAU = CalculateAU(2873550000);
+double distanceToNeptuneAU = CalculateAU(4501000000);
+double distanceToPlutoAU = CalculateAU(5945900000);
+//-----------------------------------------------------------------------
+double timeToMercuryMinutes = CalculateLightTime(57910000);
+double timeToVenusMinutes = CalculateLightTime(108200000);
+double timeToEarthMinutes = CalculateLightTime(149600000);
+double timeToMarsMinutes = CalculateLightTime(227940000);
+double timeToJupiterMinutes = CalculateLightTime(778330000);
+double timeToUranusMinutes = CalculateLightTime(2873550000);
+double timeToNeptuneMinutes = CalculateLightTime(4501000000);
+double timeToPlutoMinutes = CalculateLightTime(5945900000);
+
+Console.WriteLine("| ดาวเคราะห์  | ระยะทางในหน่วย A.U. | เวลาของแสง (นาที) |");
+Console.WriteLine("|--------------|------------------------|------------------------|");
+Console.WriteLine($"| Mercury      | {distanceToMercuryAU,23:F6} | {timeToMercuryMinutes,23:F6} |");
+Console.WriteLine($"| Venus        | {distanceToVenusAU,23:F6} | {timeToVenusMinutes,23:F6} |");
+Console.WriteLine($"| Earth        | {distanceToEarthAU,23:F6} | {timeToEarthMinutes,23:F6} |");
+Console.WriteLine($"| Mars         | {distanceToMarsAU,23:F6} | {timeToMarsMinutes,23:F6} |");
+Console.WriteLine($"| Jupiter      | {distanceToJupiterAU,23:F6} | {timeToJupiterMinutes,23:F6} |");
+Console.WriteLine($"| Uranus       | {distanceToUranusAU,23:F6} | {timeToUranusMinutes,23:F6} |");
+Console.WriteLine($"| Neptune      | {distanceToNeptuneAU,23:F6} | {timeToNeptuneMinutes,23:F6} |");
+Console.WriteLine($"| Pluto        | {distanceToPlutoAU,23:F6} | {timeToPlutoMinutes,23:F6} |"); //ก็ในเว็บเขียน 6 ตำแหน่งเลยเอา F6
+static double CalculateAU(double distanceToSun)
+{
+    return distanceToSun / 149600000;
+}
+static double CalculateLightTime(double distanceToSun)
+{
+    double speedOfLight = 299792;
+    return distanceToSun / speedOfLight;
+}
+
+```
 
  
 ## 20.  โปรแกรมพล็อตรูป sine wave บนหน้าจอ
@@ -115,4 +170,4 @@ string spaces(double val)
 
 ➢ รันโปรแกรมและบันทึกผล
 
-  
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/7f65ce41-1f5c-4822-950c-6c5ed6cd8f02)
