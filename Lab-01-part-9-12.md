@@ -39,7 +39,7 @@ Console.WriteLine("You entered: "+str);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/5c2879fd-bafa-4bb8-9a7e-07afb394b09c)
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/589f429f-c1e1-44e3-9dc7-2eec8c08e9aa)
 
 ## 11. การรับค่าตัวเลขจากคีย์บอร์ด
 
@@ -100,5 +100,7 @@ catch (Exception e)
 ``GPA :`` (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก)  
 
 ➢ รันโปรแกรมและบันทึกผล
+
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/2b3f59e2-8ae7-452e-9bcd-b00ec62af57a)
 
 ## [การตั้งชื่อตัวแปรและชนิดข้อมูลในภาษา C\#](./Lab-01-part-13.md)
