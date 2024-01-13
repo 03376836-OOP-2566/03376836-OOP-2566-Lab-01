@@ -60,36 +60,51 @@ Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`
 
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/0ee36ccf-0952-4840-a626-9b9c05d8fa02)
+
 ---ผลการทดลอง `byte`
+
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/86ccd7f1-9ce1-4d56-a675-80d459d69773)
 
 ---ผลการทดลอง `short`
  
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/ed25f801-10c2-426b-a329-5579ef3d0077)
 
 ---ผลการทดลอง `ushort`
 
- 
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/3c3ee3a7-c0fc-454b-a2b2-744133e899e1)
 
 ---ผลการทดลอง `uint`
 
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/2dabb44b-2faa-4bea-94fb-3319c1cfa7ed)
  
-
 ---ผลการทดลอง `float`
  
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/e6d2fbc4-7ea4-40be-84aa-dc1bf183687e)
 
 ---ผลการทดลอง `double`
- 
+
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/91f49227-23f2-4337-b647-9ff46334831f)
+
 ---ผลการทดลอง `decimal`
+
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/9009cb3c-9fc4-492c-8c07-5cb39c583114)
  
 ---ผลการทดลอง `long`
 
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/7fb8139a-ac9a-4413-8335-b3fee0458947)
 
 ---ผลการทดลอง `ulong`
 
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/91503b28-94d1-48ce-85fe-7462dcbeebb7)
 
 ---ผลการทดลอง `bool`
 
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/c62a04f8-4962-42f7-9db6-8ae7494535aa)
+
 ---ผลการทดลอง `sbyte`
 
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/8ed14fec-ca4a-4a44-baf3-6897898f522d)
 
 ## การใช้งานข้อมูลชนิดต่างๆ
 
@@ -125,5 +140,7 @@ Console.WriteLine(randomNumber);
 ```
  
 ให้รัน 10 ครั้งแล้วบันทึกค่าที่ได้จากการรัน
+
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/45e6a289-f8b8-469f-979a-8bba3e36e662)
 
 ## [การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ](./Lab-01-part-14.md)
