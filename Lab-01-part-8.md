@@ -11,6 +11,7 @@ Console.WriteLine("{0:F5}", i);
 ```
 ➢ รันโปรแกรมและบันทึกผล
 
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-01/assets/144196696/85415f9a-852c-46c2-b62b-18ffdecfc13c)
 
 ## ❔ แบบฝึกหัด จงรันโปรแกรมและบันทึกภาพ output ของบรรทัดคำสั่งต่อไปนี้
 
