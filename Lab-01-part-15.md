@@ -112,6 +112,7 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 | Neptune | 4,501,000,000 km | |
 | Pluto | 5,945,900,000 km | |
 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/49155c5c-94b5-4cee-85dc-384c4de68fa3)
 
 
  คลาส Math ในภาษา C# มีคลาสที่เป็นตัวช่วยคำนวณทางคณิตศาสตร์ ที่ช่วยให้เราสามารถคำนวณฟังก์ชันพื้นฐานได้ อย่างรวดเร็ว ไม่ต้องพัฒนาโปรแกรมเพิ่มเติมด้วยเอง นั่นคือคลาส Math ฟังก์ชันทางคณิตศาสตร์ที่ใช้บ่อยๆ สามารถดูรายละเอียดทั้งหมดได้จาก `system.math`
