@@ -86,7 +86,8 @@ Console.WriteLine("-----------------------");
 5. `NOR`
  ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/b8e94464-001d-4da1-a5f7-c4f5e5eb4658)
 
-6. ` `
+6. `Exclusive OR `
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/e4559f8b-45f1-4f87-a8b9-589c314245ac)
 
 
 ## [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Lab-01-part-15.md)
