@@ -38,6 +38,7 @@ Console.WriteLine("You entered: "+str);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/6da48aa7-1ef1-418f-9b7c-5ea12e8fbb27)
 
 ## 11. การรับค่าตัวเลขจากคีย์บอร์ด
 
