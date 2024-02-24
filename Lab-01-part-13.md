@@ -70,7 +70,8 @@ Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 
 
 ---ผลการทดลอง `ushort`
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/bae72b2f-d1bc-4bb1-b57e-bfa906e071c2)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/f0812bb5-e4b9-4298-bcb8-d701f38df622)
+
 
 
  
