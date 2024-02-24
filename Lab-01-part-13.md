@@ -60,13 +60,17 @@ Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/ae0e5a05-d95c-4bf3-aab6-741b24462c06)
 
 ---ผลการทดลอง `byte`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/8a8eedbb-9e8c-4cf6-9364-26ae807671f4)
 
 ---ผลการทดลอง `short`
- 
+ ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/3fcba6b7-219b-4875-b1f1-f18de32c4e7f)
+
 
 ---ผลการทดลอง `ushort`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/8bca12f5-f4a2-4ff2-a2c0-a49087872cf1)
 
  
 
