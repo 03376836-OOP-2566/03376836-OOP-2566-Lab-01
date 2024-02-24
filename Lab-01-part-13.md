@@ -82,21 +82,30 @@ Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
  
 
 ---ผลการทดลอง `float`
- 
+ ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/e1f7521b-37dd-4b98-a2af-70827ecf1da9)
+
 
 ---ผลการทดลอง `double`
- 
+ ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/6ed88a33-f0b8-4405-8718-bfcab3ad6f6e)
+
 ---ผลการทดลอง `decimal`
- 
+ ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/dc2f96a9-ba64-4873-a6e9-18171336fefa)
+
 ---ผลการทดลอง `long`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/a99a01ea-8502-4190-8584-5167f64829da)
 
 
 ---ผลการทดลอง `ulong`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/e56424ab-9033-4ebe-9060-e0e23372df9d)
 
 
 ---ผลการทดลอง `bool`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/fbebd3f2-6397-49f9-a4b8-898936bacf1b)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/3f692bef-d6d3-435c-9c54-12db0194658f)
+
 
 ---ผลการทดลอง `sbyte`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/73f4cd83-b7a3-44a5-95d7-0c67069fdc0e)
 
 
 ## การใช้งานข้อมูลชนิดต่างๆ
