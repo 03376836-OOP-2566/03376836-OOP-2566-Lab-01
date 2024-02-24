@@ -118,6 +118,7 @@ Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 bool a = 4 > 5;
 Console.WriteLine("4 > 5 is {0}", a);
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/b1194a6a-8eec-4c2d-860c-0f752ba3a604)
 
 ## สนุกกับการสร้างตัวเลขสุ่ม
 
