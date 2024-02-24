@@ -35,15 +35,35 @@ Console.WriteLine("f={0}", f);
 👉 ให้เขียนโปรแกรมเพื่อหาผลลัพธ์ของสมการต่อไปนี้
 
 1. `a+b`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/529d6780-1a8a-4913-94b5-ec9ef535fe89)
+
+
 2. `x-b`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/89ba2efa-35d3-4eaa-8e57-1162ca96b01a)
+
 3. `x*b`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/f71d39c1-38e0-413f-a267-c664cc9710f0)
+
 4. `y/a`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/12b10125-e646-4037-8035-560099abb816)
+
 5. `b%y`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/fc46051c-5928-4930-a464-23301927699b)
+
 6. `y+10%x`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/576d99a6-83a4-4148-b03d-60faae479e07)
+
 7. `a/3*5`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/5fd09b08-76ac-4505-9ed7-27c48df3e00a)
+
 8. `9/2*a`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/52908ebc-794b-400d-b168-25484c868cae)
+
 9. `y%8`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/2a9f02c3-6c46-4360-9c55-32c901df2dec)
+
 10. `100*x+y%2-a`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/671cac76-802d-4adb-93a1-309970d25b16)
 
 ## ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 
