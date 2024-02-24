@@ -15,12 +15,15 @@ Console.WriteLine("Your key is: "+ch);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/0667a2c6-d836-406d-943b-7d550fa5ef2c)
 
 
 ❔ ถ้าพิมพ์ตัวอักษรจำนวนหลายๆ ตัวแล้วกด Enter จะได้ผลอย่างไร ทำไมจึงเป็นเช่นนั้น
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/ec7bbe2f-eeaa-404a-a043-b539f905895f)
 
 
 ❔ ในบรรทัดซึ่งมีโปรแกรมเป็น ch = (char)Console.Read(); นั้น ถ้าตัด (char) ออกไป จะเกิดอะไรขึ้น ให้อธิบายประกอบ
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/0a5b7f41-75c8-4b74-8a64-ab26e21e6bb1)
 
 
 ## 10. การรับ string จากคีย์บอร์ด
