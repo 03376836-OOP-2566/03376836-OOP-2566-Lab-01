@@ -71,9 +71,9 @@ Console.WriteLine("World!");
 <br>
 ❔ จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
 <br>
-
-    Console.Write() พิมพ์ข้อความโดยไม่สร้างบรรทัดใหม่
-    Console.WriteLine() พิมพ์ข้อความและสร้างบรรทัดใหม่หลังจากการพิมพ์
+Console.Write  พิมย์ข้อความโดยไม่สร้างบรรนทัดใหม่
+Console.WriteLine พิมย์ข้อความและสร้างบรรนทัดใหม่หลังจากการพิมย์
+   
 <br>
 
 ## [4. จำนวนของอาร์กิวเมนต์ในคำสั่ง Console.WriteLine()](./Lab-01-part-4.md)
