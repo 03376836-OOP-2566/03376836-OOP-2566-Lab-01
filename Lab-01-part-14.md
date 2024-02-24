@@ -73,15 +73,20 @@ Console.WriteLine("-----------------------");
 1. `AND`
    ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/79557d7f-ef46-4824-b9a5-4c5d631269bd)
 2. `OR`
-  ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/aa992e21-ddb7-44c9-98b1-bab3c8cc2b02)
+ ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/0c6c5ff2-3e14-46cb-9de4-c3f77cdf5098)
+
 
 3. `NOT`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/f07e5874-8266-405c-b572-8f0e780aea52)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/b422fc6c-1d39-4238-bdf2-c036ca615418)
 
 4. `NAND`
- 
+ ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/0b9b4811-17b8-41f9-aca5-986210bfe9db)
+
 5. `NOR`
- 
-6. `Exclusive OR`
+ ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/b8e94464-001d-4da1-a5f7-c4f5e5eb4658)
+
+6. ` `
 
 
 ## [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Lab-01-part-15.md)
