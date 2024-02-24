@@ -99,5 +99,6 @@ catch (Exception e)
 
 ➢ รันโปรแกรมและบันทึกผล
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/576bf3a2-5196-4db6-aa9e-f9e902739e06)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/b8554007-5f60-42f0-a2b9-4678f2971e46)
 
 ## [การตั้งชื่อตัวแปรและชนิดข้อมูลในภาษา C\#](./Lab-01-part-13.md)
