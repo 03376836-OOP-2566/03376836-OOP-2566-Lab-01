@@ -24,6 +24,7 @@ Console.WriteLine("f={0}", f);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/6693aba6-e3f8-4811-a009-f8bf924e01dd)
 
 
 
