@@ -54,10 +54,15 @@ Console.WriteLine("{0, 0:X}", n);
 
 ❔  การกำหนดตัวอักษร E, F, G, N, P, X หมายถึงให้พิมพ์ออกมาเป็นอะไร <br>
     E: Scientific notation = การแสดงผลทางวิทยาศาสตร์
+    <br>
     F: Fixed-point notation = การแสดงผลที่มีจุดทศนิยมตามที่กำหนด
+    <br>
     G: General format = รูปแบบทั่วไป - จะเลือกใช้ E หรือ F ตามที่เหมาะสม
+    <br>
     N: Number format = การแสดงผลเป็นตัวเลขที่มีคั่นพันล้าน
+    <br>
     P: Percentage format = รูปแบบเปอร์เซ็นต์
+    <br>
     X: Hexadecimal format = รูปแบบเลขฐานสิบหก
  <br>
 
