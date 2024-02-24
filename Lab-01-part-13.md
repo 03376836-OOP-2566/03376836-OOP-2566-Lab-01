@@ -143,5 +143,18 @@ Console.WriteLine(randomNumber);
 ```
  
 ให้รัน 10 ครั้งแล้วบันทึกค่าที่ได้จากการรัน
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/01698dbd-273b-4d19-801f-d89df24e6504)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/9e2d439c-a8b8-4148-be7d-61787d9026b4)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/f6fd8dc3-b298-4565-9c49-97539ac842bd)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/69511201-9cac-4c3e-a3bf-93cafc43dd49)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/f2472b13-6fbe-487d-a971-01a5e4ff5e9f)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/59da72db-baac-4d78-b821-cbb8846889db)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/a79eb626-b974-420d-bbd1-41fa116d5f74)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/ffe3acc5-310e-4340-9a4e-61ed29b77dbe)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/7507f01e-4117-4136-9e04-19a7db5827be)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/bed315eb-6af0-4fda-9877-41122644dfb9)
+
+
+
 
 ## [การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ](./Lab-01-part-14.md)
