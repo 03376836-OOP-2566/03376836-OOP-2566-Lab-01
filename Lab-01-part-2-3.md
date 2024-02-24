@@ -34,8 +34,9 @@ Console.Write("Hello" + Environment.NewLine);
 
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
+<br>
 Hello นั้นขึ้นไปยังอีกบรรนทัดหรืออีก console  เป็นไปอย่างที่คิดเพราะในโค้ดของ Hello มีการใช้คำสั่ง ("Hello" + Environment.NewLine); เพื่อใช้สำหรับการส่งอักขระขึ้นบรรทัดใหม่ไปยัง console ผลจึงได้ออกมาเป็น Hello สองบรรทัด
-
+<br>
 ## 3. เมดธอด Console.WriteLine()
 
 `Console.WriteLine()` เป็นคำสั่งที่เทียบเท่ากับการใช้  `Console.Write` ร่วมกับ  `Environment.NewLine` ทำให้ประหยัดเวลาในการเขียนโปรแกรม
