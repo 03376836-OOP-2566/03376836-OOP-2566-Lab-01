@@ -72,6 +72,7 @@ Console.WriteLine("World!");
 ❔ จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
 <br>
 Console.Write  พิมย์ข้อความโดยไม่สร้างบรรนทัดใหม่
+<br>
 Console.WriteLine พิมย์ข้อความและสร้างบรรนทัดใหม่หลังจากการพิมย์
    
 <br>
