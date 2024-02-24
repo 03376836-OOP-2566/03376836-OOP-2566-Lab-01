@@ -77,6 +77,7 @@ Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
  
 
 ---ผลการทดลอง `uint`
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/ceab1985-199b-4d55-88d7-24a586b37b6e)
 
  
 
