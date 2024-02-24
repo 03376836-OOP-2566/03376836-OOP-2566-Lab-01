@@ -38,6 +38,7 @@ Console.WriteLine("{1}, {0} and {1}", 3, 6);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-01/assets/144197034/702c8a23-cb6e-490a-badf-d631b006c403)
 
  
 ## [5. การกำหนดความกว้างของอาร์กิวเมนต์](./Lab-01-part-5-7.md)
