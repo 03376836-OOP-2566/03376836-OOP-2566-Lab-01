@@ -115,4 +115,7 @@ string spaces(double val)
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-01/assets/144195995/af7af3e3-bb56-4b7e-a8de-98d134f69d6d)
+
+
   
