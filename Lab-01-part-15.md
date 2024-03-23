@@ -24,6 +24,7 @@ Console.WriteLine("f={0}", f);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/0c849fde-68f4-4ce9-8ba3-bb5ccc9ec408)
 
 
 
@@ -34,15 +35,34 @@ Console.WriteLine("f={0}", f);
 👉 ให้เขียนโปรแกรมเพื่อหาผลลัพธ์ของสมการต่อไปนี้
 
 1. `a+b`
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/4bd4b9e3-52eb-4997-a97b-7380a78d22c8)
+
 2. `x-b`
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/ba999cdc-4098-4e9f-bcf7-7fdab383f9c8)
+
 3. `x*b`
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/9028945b-04da-4072-83df-d937359bdce0)
+
 4. `y/a`
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/9909dad7-3c10-4cec-8b3f-d73498b7c501)
+
 5. `b%y`
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/2bb8aa64-5dc6-43e5-8912-99025de6567a)
+
 6. `y+10%x`
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/b3afff40-e120-4e06-a77c-48cc8db060ba)
+
 7. `a/3*5`
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/4ddc0a02-3ee0-43e8-ae16-a12c3b70565b)
+
 8. `9/2*a`
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/9334f469-ceb6-4235-bdf3-6665b21c04d9)
+
 9. `y%8`
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/f7753532-20de-489a-b7b0-fa138519a4c9)
+
 10. `100*x+y%2-a`
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/08027648-3130-4a22-a06c-d1cd6076505a)
 
 ## ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 
