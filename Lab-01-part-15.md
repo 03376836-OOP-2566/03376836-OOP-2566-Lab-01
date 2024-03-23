@@ -43,6 +43,9 @@ Console.WriteLine("f={0}", f);
 8. `9/2*a`
 9. `y%8`
 10. `100*x+y%2-a`
+     ### ![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-01/assets/144195611/af7cc23c-2259-4281-bae3-65a2712dfd0d)
+
+
 
 ## ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 
@@ -72,7 +75,8 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
-
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-01/assets/144195611/2453e121-6d33-4c9b-8c5f-9a800a8308be)
+โปรแกรมแสดงค่าความเร็วของแสง ความเร็วของแสง ระยะระหวว่างดวงอาทิตย์ คำนวณและแสดงเวลาที่แสงใช้เดินทาง แสดงเวลาที่แสงใช้เดินทางจากดวงอาทิตย์ ดังนั้นโค้ดนี้จะเป็นการแก้ปัญหาทางวิทยาศาสตร์ มีการกำหนดค่าคงที่ และแสดงหาผลลัพธ์
 
 
 
@@ -89,6 +93,35 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 | Uranus | 2,873,550,000 km | |
 | Neptune | 4,501,000,000 km | |
 | Pluto | 5,945,900,000 km | |
+
+
+```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        const double lightSpeed = 299792; // km per second
+        const double auToKm = 149600000; // 1 astronomical unit (A.U.) = 149,600,000 kilometer 
+        double[] distances = { 57910000, 108200000, 149600000, 227940000, 778330000, 2873550000, 4501000000, 5945900000 };
+        Console.WriteLine("|  ดาวเคราะห์  | ระยะทางใน A.U. | เวลาของแสง (นาที) |");
+        Console.WriteLine("|---------------|-------------------|-----------------------|");
+        for (int i = 0; i < distances.Length; i++)
+        {
+            double distanceInAu = distances[i] / auToKm;
+            double lightTimeInMinutes = distances[i] / lightSpeed / 60;
+
+            Console.WriteLine("| {0,-13} | {1,17:F6} | {2,20:F6} |", GetPlanetName(i), distanceInAu, lightTimeInMinutes);
+        }
+    }
+    static string GetPlanetName(int index)
+    {
+        string[] planetNames = { "Mercury", "Venus", "Earth", "Mars", "Jupiter", "Uranus", "Neptune", "Pluto" };
+        return planetNames[index];
+    }
+}
+```
 
 
 
@@ -114,5 +147,6 @@ string spaces(double val)
 หมายเหตุ ในการเขียนโปรแกรมภาษา C# .NET6.0 ที่ใช้ template แบบใหม่ เราก็ยังคงสามารถสร้าง function ใช้งานได้ตามปกติ (แต่จะไม่ครอบคลุม feature ทั้งหมดใน OOP )
 
 ➢ รันโปรแกรมและบันทึกผล
-
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-01/assets/144195611/a799c486-bb92-48ce-802b-bbb792a38634)
+แสดงค่าและจำนวนช่องว่าวที่เพิ่มเข้าไป โดยที่แต่ละค่าจะถูกจัดหน้าให้อยู่ในคอลัมน์ด้วยช่องว่างที่สร้างขึ้น
   
