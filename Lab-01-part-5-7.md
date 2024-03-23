@@ -21,10 +21,11 @@ Console.WriteLine("{0, 20}", 1);
 หมายเหตุ ตัวเลขสองบรรทัดบนสุด ใช้เพื่อกำหนดตำแหน่ง column ของตัวอักษร
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-01/assets/144195963/9a70a0a5-41a7-4223-b775-040f36a2b375)
 
  
 ❔ การกำหนดความกว้างของอาร์กิวเมนต์ด้วยเครื่องหมาย { , } ในคำสั่ง ``Console.WriteLine()`` มีรูปแบบการใช้งานอย่างไร
-
+`ตัวแรกคือตำแหน่ง ตัวสองคือความกว้าง`
 
 
 ## 6. การกำหนดรูปแบบของอาร์กิวเมนต์
@@ -42,9 +43,10 @@ Console.WriteLine("{0, 0:X}", n);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-01/assets/144195963/fafc9f65-30f4-4b9e-a1b0-94e491fc28f6)
 
 ❔  การกำหนดตัวอักษร E, F, G, N, P, X หมายถึงให้พิมพ์ออกมาเป็นอะไร
-
+`exponential fixed-point notation general separator แบบเป็นเปอร์เซ็นต์ hexadecimal`
  
 
 ## 7. การกำหนดรูปแบบพร้อมความกว้างของอาร์กิวเมนต์
@@ -62,6 +64,7 @@ Console.WriteLine("{0, 20:X}", 1);
 ```
 
 ➢   รันโปรแกรมและบันทึกผล
+![image](https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-01/assets/144195963/95f08920-7b49-42ed-af6f-acedbc3bad9d)
 
  
 ## [Part 8  การกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์](./Lab-01-part-8.md)
