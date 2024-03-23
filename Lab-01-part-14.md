@@ -69,12 +69,18 @@ Console.WriteLine("-----------------------");
  
 👷 จากจ้อ 14 ให้เขียนโปรแกรมเพื่อสร้างตารางความจริงของลอจิกดังต่อไปนี้
 
-1. `AND`
-2. `OR`
-3. `NOT`
-4. `NAND`
-5. `NOR`
+1. `AND` ![image](https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-01/assets/144195963/f9604119-46f9-4bfd-8966-1e493d10aeb2)
+
+2. `OR`![image](https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-01/assets/144195963/554ffa5e-9c1e-4ab7-83f0-b7895bea7ef9)
+
+3. `NOT`![image](https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-01/assets/144195963/56f9687d-485e-4181-a8ce-f3a773545b0d)
+
+4. `NAND`![image](https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-01/assets/144195963/7f4545fc-e6c7-4adf-8c5a-c3c59323327b)
+
+5. `NOR`![image](https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-01/assets/144195963/fd4d5f7c-b7a1-4c61-92e2-5596e677ed7c)
+
 6. `Exclusive OR`
+![image](https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-01/assets/144195963/c8b71dff-6bea-47fd-a0e5-90951cc329be)
 
 
 ## [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Lab-01-part-15.md)
