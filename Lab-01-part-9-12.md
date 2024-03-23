@@ -99,6 +99,7 @@ code error แตกต่างเพราะโปรแรมนี้มี
 ``GPA :`` (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก)  
 
 ➢ รันโปรแกรมและบันทึกผล
-![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/46497f20-8ca4-41e1-a53a-bb94dd2055f1)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-01/assets/144196049/c8b3156c-1ade-443b-91fa-ab17ff2e1262)
+
 
 ## [การตั้งชื่อตัวแปรและชนิดข้อมูลในภาษา C\#](./Lab-01-part-13.md)
