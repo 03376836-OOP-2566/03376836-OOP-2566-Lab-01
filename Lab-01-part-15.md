@@ -24,6 +24,7 @@ Console.WriteLine("f={0}", f);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+<img width="858" alt="Screenshot 2024-03-23 232700" src="https://github.com/anndyyzzz/03376836-OOP-2566-Lab-01/assets/144866059/f44b17b1-c742-4292-b40f-cc8d46588d77">
 
 
 
@@ -81,14 +82,14 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 
 | ดาวเคราะห์ | ระยะทางจากดวงอาทิตย์ | ระยะทางในหน่วย A.U. | เวลาของแสง (นาที)
 |---|---|---|---|
-| Mercury | 57,910,000 km | |
-| Venus | 108,200,000 km | |
-| Earth | 149,600,000 km | |
-| Mars | 227,940,000 km | |
-| Jupiter |  778,330,000 km | |
-| Uranus | 2,873,550,000 km | |
-| Neptune | 4,501,000,000 km | |
-| Pluto | 5,945,900,000 km | |
+| Mercury | 57,910,000 km | 35,983,605 miles | 3.224337365591398 minutes  |
+| Venus | 108,200,000 km | 67,232,362 miles| 6.024405197132617 minutes |
+| Earth | 149,600,000 km |92,957,130 miles | 8.32949193548387 minutes |
+| Mars | 227,940,000 km | 141,635,349 miles |  12.691339516129032 minutes   |
+| Jupiter |  778,330,000 km | 483,631,838 miles |  43.336186200716845 minutes |
+| Uranus | 2,873,550,000 km | 1,785,541,183 miles | 159.9947296594982 minutes |
+| Neptune | 4,501,000,000 km | 2,796,791,726 miles | 250.6085775985663 minutes |
+| Pluto | 5,945,900,000 km |  3,694,610,958 miles | 331.05832956989246 minutes |
 
 
 
@@ -114,5 +115,6 @@ string spaces(double val)
 หมายเหตุ ในการเขียนโปรแกรมภาษา C# .NET6.0 ที่ใช้ template แบบใหม่ เราก็ยังคงสามารถสร้าง function ใช้งานได้ตามปกติ (แต่จะไม่ครอบคลุม feature ทั้งหมดใน OOP )
 
 ➢ รันโปรแกรมและบันทึกผล
+<img width="856" alt="Screenshot 2024-03-23 232834" src="https://github.com/anndyyzzz/03376836-OOP-2566-Lab-01/assets/144866059/75053e4f-a69c-49eb-b71b-8ef883a0c380">
 
   
