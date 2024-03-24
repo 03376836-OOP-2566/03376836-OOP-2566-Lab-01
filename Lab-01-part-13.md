@@ -43,6 +43,7 @@ Size :4
 Minimum Value :-2147483648
 Maximum Value :2147483647
 ```
+![Screenshot 2024-03-25 011623](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/5be3b75e-6a9a-4957-81a7-5e7272296758)
 
 👉 คำสั่งสำหรับการทดลอง  
 
@@ -59,36 +60,48 @@ Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`
+![Screenshot 2024-03-25 011903](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/3fde690d-4f70-4714-8e4d-2f4b44547ece)
 
 ---ผลการทดลอง `byte`
+![Screenshot 2024-03-25 011738](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/28a9c875-1075-4b26-acf8-d1f7aef7fac8)
 
 ---ผลการทดลอง `short`
- 
+ ![Screenshot 2024-03-25 012404](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/eee6c732-ff37-4911-a20a-b56356f3c32c)
+
 
 ---ผลการทดลอง `ushort`
+![Screenshot 2024-03-25 012440](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/3bbad933-2546-4968-9558-f830bafd544c)
 
  
 
 ---ผลการทดลอง `uint`
+![Screenshot 2024-03-25 012518](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/6492dce0-591d-41a9-abf8-790abc1a59f2)
 
  
 
 ---ผลการทดลอง `float`
- 
+ ![Screenshot 2024-03-25 012557](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/64fa0652-19f2-4206-9661-a64ebe643e5f)
+
 
 ---ผลการทดลอง `double`
- 
+ ![Screenshot 2024-03-25 012633](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/42db2508-438a-430a-a3e0-1499ab2cd337)
+
 ---ผลการทดลอง `decimal`
- 
+ ![Screenshot 2024-03-25 012712](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/6027342a-040d-4cb2-a1e6-b8fa20a21fdf)
+
 ---ผลการทดลอง `long`
+![Screenshot 2024-03-25 012747](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/d494dc28-07b9-44f9-8ec2-4608df7ffdf7)
 
 
 ---ผลการทดลอง `ulong`
+![Screenshot 2024-03-25 012814](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/45e58fed-7de6-4a8f-99cd-5fedf89d0f99)
 
 
 ---ผลการทดลอง `bool`
+![Screenshot 2024-03-25 012226](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/7f9adfdc-513a-480d-82d1-6dd02fdae980)
 
 ---ผลการทดลอง `sbyte`
+![Screenshot 2024-03-25 012323](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/6e207f9e-87b6-4901-9c82-a48cd3613e48)
 
 
 ## การใช้งานข้อมูลชนิดต่างๆ
@@ -125,5 +138,6 @@ Console.WriteLine(randomNumber);
 ```
  
 ให้รัน 10 ครั้งแล้วบันทึกค่าที่ได้จากการรัน
+![Screenshot 2024-03-25 013156](https://github.com/omelaweng/03376836-OOP-2566-Lab-01/assets/144561325/0775e735-e183-404d-9641-20cbb7b4132f)
 
 ## [การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ](./Lab-01-part-14.md)
