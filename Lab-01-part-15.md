@@ -25,6 +25,7 @@ Console.WriteLine("f={0}", f);
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![ข้อ 15](https://github.com/65030179179Pattarapon/03376836-OOP-2566-Lab-01/assets/144198506/87fff121-b8a9-42d5-b7a1-01a5aeea813b)
 
 
 
@@ -43,6 +44,8 @@ Console.WriteLine("f={0}", f);
 8. `9/2*a`
 9. `y%8`
 10. `100*x+y%2-a`
+#### แสดงผลลัพธ์แบบรวมทุกข้อ ตั้งแต่ข้อที่ 1-10
+![ข้อ 16](https://github.com/65030179179Pattarapon/03376836-OOP-2566-Lab-01/assets/144198506/a4556640-0905-400a-9634-93f54348bd18)
 
 ## ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 
@@ -73,6 +76,7 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![ข้อ 17 1](https://github.com/65030179179Pattarapon/03376836-OOP-2566-Lab-01/assets/144198506/186a59d3-1397-4038-86ac-5df0d114d8c2)
 
 
 
@@ -81,14 +85,16 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 
 | ดาวเคราะห์ | ระยะทางจากดวงอาทิตย์ | ระยะทางในหน่วย A.U. | เวลาของแสง (นาที)
 |---|---|---|---|
-| Mercury | 57,910,000 km | |
-| Venus | 108,200,000 km | |
-| Earth | 149,600,000 km | |
-| Mars | 227,940,000 km | |
-| Jupiter |  778,330,000 km | |
-| Uranus | 2,873,550,000 km | |
-| Neptune | 4,501,000,000 km | |
-| Pluto | 5,945,900,000 km | |
+| Mercury | 57,910,000 km | 0.6226881720430107 | 5.189068100358424 |
+| Venus | 108,200,000 km | 1.1634408602150537 | 9.695340501792115 |
+| Earth | 149,600,000 km | 1.6086021505376344 | 13.405017921146953 |
+| Mars | 227,940,000 km | 2.450967741935484 | 20.4247311827957 |
+| Jupiter |  778,330,000 km | 8.369139784946237 | 69.74283154121865 |
+| Uranus | 2,873,550,000 km | 30.898387096774194 | 257.48655913978496 |
+| Neptune | 4,501,000,000 km | 48.39784946237 | 403.31541218637994
+| Pluto | 5,945,900,000 km | 63.93440860215054 | 532.7867383512545 |
+
+![ข้อ 17 2](https://github.com/65030179179Pattarapon/03376836-OOP-2566-Lab-01/assets/144198506/cd9f9cfa-9781-4969-959c-8ba247e91f6a)
 
 
 
@@ -115,4 +121,4 @@ string spaces(double val)
 
 ➢ รันโปรแกรมและบันทึกผล
 
-  
+  ![ข้อ 20](https://github.com/65030179179Pattarapon/03376836-OOP-2566-Lab-01/assets/144198506/18ecc71d-9f5a-490e-86ef-5c47a53ca21f)
